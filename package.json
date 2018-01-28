@@ -1,6 +1,6 @@
 {
   "name": "xazure-builder-module",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "",
   "main": "dist/index.js",
   "author": "Christian Snodgrass <christian.snodgrass.open@gmail.com> (http://xazure.net)",
